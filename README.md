@@ -1,5 +1,5 @@
 # Ehhh, A graph visualization tool(INCOMPLETE)
-## Look at example.png
+### Look at example.png
 Draw a graph with the tools provided, when you're done press SHIFT+A to print the Adjacency Matrix for the drawn graph.
 
 >Known Issues:<br />
